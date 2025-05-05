@@ -1,2 +1,2 @@
 # Pestalyze
-A desktop app for farmers/researchers for pest monitoring and accurate pesticide recommendation
+A desktop app for farmers/researchers for efficient pest monitoring and accurate pesticide recommendation
